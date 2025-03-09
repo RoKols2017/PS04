@@ -31,8 +31,8 @@
 Склонируйте репозиторий и установите зависимости:
 
 ```bash
-git clone https://github.com/yourusername/wikipedia-search-cli.git
-cd wikipedia-search-cli
+git clone https://github.com/RoKols2017/PS04.git
+cd PS04
 pip install -r requirements.txt
 ```
 
